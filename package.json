@@ -1,6 +1,6 @@
 {
-  "name": "prvni-dev-stack",
-  "description": "Simple dev-stack for modern JS apps",
+  "name": "devstack",
+  "description": "Simple devstack for modern JS apps",
   "author": "Vojtech Miksu <vojtech@miksu.cz>",
   "version": "1.0.0",
   "private": true,
