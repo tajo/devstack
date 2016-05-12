@@ -1,10 +1,9 @@
 import ExtractTextPlugin from 'extract-text-webpack-plugin';
 import path from 'path';
 import webpack from 'webpack';
-import { HOT_RELOAD_PORT, SRC_DIR, BUILD_DIR } from './constants';
+import { SRC_DIR, BUILD_DIR } from './constants';
 
 export default {
-  hotPort: HOT_RELOAD_PORT,
   cache: false,
   debug: false,
   entry: { app: [path.join(SRC_DIR, 'client/index.js')] },
