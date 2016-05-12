@@ -1,5 +1,7 @@
 # React-Webpack-Babel-ESLint
 
+[![Build Status](https://travis-ci.org/tajo/devstack.svg?branch=master)](https://travis-ci.org/tajo/devstack)
+
 There is a [Czech article](http://www.dzejes.cz/prvni-dev-stack.html) with detailed description of this devstack. It was created mainly for education purposes but it can be used as a bootstrap for real-world application. **It is simple** but powerful.
 
 ## Features
